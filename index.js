@@ -4,10 +4,10 @@ import cors from 'cors'
 import AppRouter from './src/routes/index.js'
 dotenv.config()
 
-const PORT = process.env.PORT
+const PORT = process.env.PORT || 3000
 const app = express()
 
-app.use(cors())
+app.use(cors("*"))
 app.use(express.json())
 app.use(AppRouter)
 
