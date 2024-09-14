@@ -3,13 +3,8 @@ WEB DEVELOPER TASK
 Mentor and Student Assigning with Database using Express Server - Node JS
 
 Backend deployed link
-https://assign-mentorbe.onrender.com/
-
-Frontend Source code
-https://github.com/Vidhya0501/assign-mentorFE/tree/main
 
 Frontend deployed link
-https://assign-mentor-fe-vidhya.netlify.app/
 
 Enpoints created for the following,
 
