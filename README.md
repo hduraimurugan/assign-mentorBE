@@ -1,6 +1,6 @@
 WEB DEVELOPER TASK
 
-Mentor and Student Assigning with Database using Express Server - Node JS, MongoDB
+Mentor and Student Assigning with Database using Express Server - Node JS, MongoDB, Express
 
 Backend deployed link : https://assign-mentorbe-4hrj.onrender.com/
 
